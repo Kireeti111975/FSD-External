@@ -1,0 +1,14 @@
+{
+  "name": "campus-outing-system",
+  "version": "1.0.0",
+  "description": "Campus Outing & Day-Pass System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
